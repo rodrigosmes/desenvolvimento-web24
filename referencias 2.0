@@ -1,0 +1,93 @@
+Desenvolvimento Web 
+1 periodo 
+2024
+
+
+Referencia ferrementas utilizadas
+
+-python, py
+    https://www.python.org/
+
+-git, git
+    https://git-scm.com/
+
+-vscode, code
+    https://code.visualstudio.com/
+
+-sqlitebrowser
+    https://sqlitebrowser.org/  
+
+1_Arquitetura da Web:
+
+    VSCode: Uma ferramenta de desenvolvimento que permite escrever,
+    editar e depurar código, incluindo código relacionado à arquitetura da web.
+
+    Git: Utilizado para versionamento de código,
+    o que é fundamental para o desenvolvimento de aplicações web.
+
+    SQLiteBrowser: Embora não diretamente relacionado à arquitetura da web,
+    pode ser usado para visualizar e manipular bancos de dados SQLite,
+    que são comuns em aplicações web.
+
+2_Protocolos de comunicação da internet:
+
+    Python: Pode ser usado para implementar protocolos de comunicação
+    como TCP/UDP, HTTP, FTP, etc.
+    Git: Não diretamente relacionado aos protocolos de comunicação,
+    mas importante para o versionamento do código que implementa esses protocolos.
+
+3_Internet e web:
+
+    VSCode, Python, Git: Todas essas ferramentas são fundamentais para desenvolvimento web
+     e podem ser usadas para criar, implementar e gerenciar aplicações web.
+
+4_Conceitos básicos de programação de computadores:
+
+    VSCode, Python, Git: Ferramentas básicas de desenvolvimento e versionamento de código.
+
+5_Fundamentos da linguagem HTML:
+
+    VSCode: Para escrever e editar código HTML.
+
+    SQLiteBrowser: Embora não diretamente relacionado, pode ser usado para visualizar dados em HTML.
+
+6_Fundamentos da linguagem CSS:
+
+    VSCode: Para escrever e editar código CSS.
+
+7_Fundamentos da linguagem Javascript:
+
+    VSCode: Para escrever e editar código JavaScript.
+
+8_Introdução a Bancos de Dados para desenvolvimento web:
+
+    SQLiteBrowser: Ferramenta para visualizar e manipular bancos de dados relacionais, como SQLite.
+
+9_Desenvolvimento de páginas para internet:
+
+    VSCode: Ferramenta principal para desenvolver HTML, CSS e JavaScript.
+
+    SQLiteBrowser: Pode ser usado para analisar dados de páginas web que usam bancos de dados SQLite.
+
+10_Conceitos básicos sobre interfaces de usuário dinamicamente adaptáveis:
+
+    VSCode: Pode ser usado para escrever e editar CSS adaptativo
+    e JavaScript para tornar as interfaces de usuário dinâmicas.
+
+11_Frameworks para desenvolvimento fullstack:
+
+    Python, VSCode, Git: Essas ferramentas podem ser usadas em
+    conjunto com diversos frameworks fullstack para desenvolvimento web.
+
+12_Aplicações web com renderização no servidor:
+
+    Python, VSCode: Podem ser usados para criar aplicações com renderização no servidor.
+
+13_Desenvolvendo APIs web:
+
+    Python, VSCode, Git: Ferramentas fundamentais para o desenvolvimento de APIs web.
+
+14_Consumindo e enviando dados de/para APIs web:
+
+    VSCode, Python: Pode ser utilizado para desenvolver 
+    clientes que consomem e enviam dados para APIs web.

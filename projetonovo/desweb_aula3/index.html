@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+<title> Exercicio Aula 3</title>
+<meta charset="utf-8">
+<style>
+  body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0;
+  }
+  h1 {
+    color: blue;
+    font-size: 24px;
+    margin: 20px 0;
+  }
+  h3 {
+    font-weight: bold;
+    font-size: 18px;
+    margin: 10px 0;
+  }
+  p {
+    font-style: italic;
+    font-size: 16px;
+    margin: 10px 0;
+  }
+  span {
+    font-weight: bold;
+  }
+  ul, ol {
+    list-style-type: none;
+    padding: 0;
+  }
+  li {
+    margin: 5px 0;
+  }
+  hr {
+    border: none;
+    border-top: 1px solid red;
+    margin: 20px 0;
+  }
+  menu {
+    background-color: lightgray;
+    padding: 10px;
+  }
+</style>
+</head>
+<body>
+<h1 id="titulo" title="Título Principal"> --I         I--</h1>
+<h3 title="Exercício Aula 3"> Exercicio Aula 3</h3>
+<div>
+    <p title="Parágrafo Principal"> Nesta aula falaremos sobre a utilização de elementos HTML </p>
+</div>
+<div>
+    <p><span title="Destaque"> Como por exemplo alguns elementos utilizados nessa página web como: </span></p>
+    <ol title="Lista Ordenada">
+      <li> DIV </li>
+      <li> OL </li>
+    </ol>
+</div>
+<hr title="Linha Horizontal">
+<p title="Dois Parágrafos">Com dois parágrafos</p>
+<menu title="Menu de Navegação"> link 1</menu>
+
+<!-- Elementos adicionados -->
+<strong title="Texto Forte">Texto Forte</strong>
+<em title="Texto Enfatizado">Texto Enfatizado</em>
+<del title="Texto Deletado">Texto Deletado</del>
+<ins title="Texto Inserido">Texto Inserido</ins>
+<form action="/submit" method="post" title="Meu Formulário">
+  <input id="meuInput" type="text" title="Meu Input">
+  <textarea id="minhaAreaTexto" title="Minha Área de Texto"></textarea>
+  <a href="#" title="Meu Link">Meu Link</a>
+</form>
+
+<!-- Elementos de mídia -->
+<img src="botafogo.jpg" alt="Imagem de exemplo" title="Imagem" id="minhaImagem" style="margin: 10px auto; display: block;">
+<audio controls id="meuAudio" style="margin: 10px auto; display: block;">
+  <source src="light-my-fire.mp3" type="audio/mp3">
+  Seu navegador não suporta o elemento de áudio.
+</audio>
+<video controls id="meuVideo" style="margin: 10px auto; display: block;">
+  <source src="doguinho.mp4" type="video/mp4">
+  Seu navegador não suporta o elemento de vídeo.
+</video>
+</body>
+</html>
+

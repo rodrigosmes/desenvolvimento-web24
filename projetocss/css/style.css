@@ -1,0 +1,89 @@
+/* Personalização global */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #007bff; /* Cor de fundo mais vívida */
+  color: #fff; /* Cor da fonte */
+  text-align: center; /* Centralizar texto */
+}
+
+/* Estilos para títulos */
+h1 {
+  font-size: 24px; /* Tamanho da fonte do título */
+  margin: 20px 0; /* Margem superior e inferior */
+}
+
+h3 {
+  font-size: 18px; /* Tamanho da fonte do subtítulo */
+  font-weight: bold; /* Negrito */
+  margin: 10px 0; /* Margem superior e inferior */
+}
+
+/* Estilos para parágrafos */
+p {
+  font-style: italic; /* Itálico */
+  font-size: 16px; /* Tamanho da fonte */
+  margin: 10px 0; /* Margem superior e inferior */
+}
+
+/* Estilos para a div */
+div {
+  margin-bottom: 20px; /* Margem inferior */
+}
+
+/* Estilos para lista ordenada */
+ol {
+  list-style-type: none; /* Remover marcadores */
+}
+
+/* Estilos para menu */
+menu {
+  background-color: lightgray; /* Cor de fundo */
+  padding: 10px; /* Preenchimento */
+}
+
+/* Estilos para elementos adicionados */
+strong {
+  color: #28a745; /* Cor verde */
+  font-weight: bold; /* Negrito */
+}
+
+em {
+  color: #dc3545; /* Cor vermelha */
+}
+
+del {
+  text-decoration: line-through; /* Texto riscado */
+}
+
+ins {
+  text-decoration: underline; /* Texto sublinhado */
+}
+
+/* Estilos para formulário */
+form {
+  margin-bottom: 20px; /* Margem inferior */
+}
+
+input[type="text"],
+textarea {
+  padding: 5px; /* Preenchimento */
+  margin: 5px; /* Margem */
+  width: 200px; /* Largura */
+}
+
+input[type="submit"] {
+  background-color: #28a745; /* Cor de fundo verde */
+  color: #fff; /* Cor do texto branco */
+  border: none; /* Sem borda */
+  padding: 10px 20px; /* Preenchimento */
+  cursor: pointer; /* Cursor de ponteiro */
+}
+
+/* Estilos para elementos de mídia */
+img,
+audio,
+video {
+  margin: 10px auto; /* Margem centralizada */
+  display: block; /* Exibir como bloco */
+  max-width: 100%; /* Largura máxima */
+}

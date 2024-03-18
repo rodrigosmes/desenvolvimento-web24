@@ -1,0 +1,32 @@
+/* Estilização do cabeçalho */
+h1 {
+    color: hotpink; /* Cor rosa */
+    font-size: 2em;
+    font-family: Georgia, "Times New Roman", Times, serif;
+    border-bottom: 10px dotted purple; /* Bordas pontilhadas roxas */
+  }
+  
+  /* Estilização do cabeçalho nível 2 */
+  h2 {
+    font-style: italic; /* Itálico */
+  }
+  
+  /* Estilização do ul para informações de contato */
+  ul {
+    background-color: #eeeeee; /* Cor de fundo cinza claro */
+    border: 5px solid purple; /* Borda sólida roxa */
+    padding: 10px; /* Preenchimento */
+  }
+  
+  /* Estilização dos links */
+  a:link,
+  a:visited {
+    color: #28a745; /* Cor verde */
+    transition: color 0.3s; /* Transição de cor suave */
+  }
+  
+  a:hover {
+    color: #218838; /* Cor verde mais escura ao passar o mouse */
+    text-decoration: none; /* Remover sublinhado */
+  }
+  
